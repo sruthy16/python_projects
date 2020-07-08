@@ -1,0 +1,9 @@
+my_apples = 5
+my_watermelons = 8
+total = my_apples + my_watermelons
+if total < 7:
+    print("I am starving becuase I only have" + total + "fruits")
+elif total < 10 and total >= 7:
+    print("I just have enough fruits for myself becuase I only have" + total + "fruits")
+elif total >= 10:
+    print("I have enought fruits to start a party")
