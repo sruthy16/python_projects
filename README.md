@@ -1,1 +1,1 @@
-# Python Projects
+This GitHub repository contains a collection of Python scripts and programs I created when first learning Python. The scripts cover various programming projects, including games like Mastermind and Number Guessing and practical programs such as Invoice generation and Vector operations. Additionally, there is a script related to the popular game Animal Crossing.
